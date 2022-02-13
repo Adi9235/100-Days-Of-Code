@@ -3,10 +3,13 @@
 
 ## Topics:
 
-- ## `Arrays`
+- ## Arrays
  
 
-## Level - `Easy`
+## Level - Easy
 
-* [Two Sum](https://leetcode.com/problems/two-sum/)
-* [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) 
+ &#x2714;  [Two Sum](https://leetcode.com/problems/two-sum/)
+
+ &#x2714; [Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/) 
+ 
+ &#x2714;  [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/)
